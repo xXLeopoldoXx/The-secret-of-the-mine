@@ -1,12 +1,13 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Cueva (Sótano 1)","order":4,"parentId":3,"scrollX":1216.8,"scrollY":1236.8,"quick":false},
+{"id":1,"expanded":true,"name":"Cueva (Sótano 1)","order":4,"parentId":3,"scrollX":973.1999999999999,"scrollY":1358.3999999999999,"quick":false},
 {"id":2,"expanded":false,"name":"Posada","order":2,"parentId":3,"scrollX":884.7272727272727,"scrollY":492,"quick":false},
-{"id":3,"expanded":true,"name":"Pueblo 2","order":1,"parentId":0,"scrollX":1516,"scrollY":876,"quick":false},
-{"id":4,"expanded":true,"name":"Entrada a la cueva","order":3,"parentId":3,"scrollX":540.6666666666666,"scrollY":318,"quick":false},
-{"id":5,"expanded":true,"name":"Cueva (Sótano 2","order":5,"parentId":3,"scrollX":1216.8,"scrollY":688.8,"quick":false},
-{"id":6,"expanded":true,"name":"Cueva","order":6,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
-{"id":7,"expanded":true,"name":"Interior de la cueva de fuego 1","order":8,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
-{"id":8,"expanded":false,"name":"Interior de la cueva de fuego 4","order":9,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
-{"id":9,"expanded":false,"name":"Interior de la cueva submarina 1","order":7,"parentId":3,"scrollX":0,"scrollY":0,"quick":false}
+{"id":3,"expanded":true,"name":"Pueblo 2","order":1,"parentId":0,"scrollX":1228.5,"scrollY":876,"quick":false},
+{"id":4,"expanded":true,"name":"Entrada a la cueva","order":3,"parentId":3,"scrollX":720.8888888888889,"scrollY":408.8888888888889,"quick":false},
+{"id":5,"expanded":true,"name":"Cueva (Sótano 2)","order":5,"parentId":3,"scrollX":973.1999999999999,"scrollY":1160.3999999999999,"quick":false},
+{"id":6,"expanded":true,"name":"Cueva","order":6,"parentId":3,"scrollX":973.1999999999999,"scrollY":561.6,"quick":false},
+{"id":7,"expanded":true,"name":"Interior de la cueva de fuego 1","order":8,"parentId":3,"scrollX":973.1999999999999,"scrollY":561.6,"quick":false},
+{"id":8,"expanded":false,"name":"Interior de la cueva de fuego 4","order":9,"parentId":3,"scrollX":973.1999999999999,"scrollY":638.4,"quick":false},
+{"id":9,"expanded":false,"name":"Interior de la cueva submarina 1","order":7,"parentId":3,"scrollX":973.1999999999999,"scrollY":702,"quick":false},
+{"id":10,"expanded":false,"name":"Cueva (Sótano 3)","order":10,"parentId":3,"scrollX":973.1999999999999,"scrollY":856.8,"quick":false}
 ]
