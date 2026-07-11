@@ -6,6 +6,6 @@ null,
 {"id":4,"battlerName":"NPC03","characterIndex":0,"characterName":"NPC03","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"NPC03","traits":[],"initialLevel":1,"maxLevel":99,"name":"NPC03","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"NPC04","characterIndex":0,"characterName":"NPC04","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"NPC04","traits":[],"initialLevel":1,"maxLevel":99,"name":"NPC04","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"NPC05","characterIndex":0,"characterName":"NPC05","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"NPC05","traits":[],"initialLevel":1,"maxLevel":99,"name":"NPC05","nickname":"","note":"","profile":""},
-{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":7,"battlerName":"El Elfo pelea","characterIndex":0,"characterName":"El Elfo walk","classId":1,"equips":[5,31,0,0,0],"faceIndex":0,"faceName":"El Elfo","traits":[],"initialLevel":1,"maxLevel":99,"name":"El Elfo","nickname":"Grillo","note":"","profile":"Guerrero nostalgico"},
+{"id":8,"battlerName":"Aldo pelea","characterIndex":0,"characterName":"Aldo walk","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Aldo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aldo","nickname":"Hermanito de Bruno","note":"","profile":""}
 ]
