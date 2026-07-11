@@ -6,6 +6,6 @@ null,
 {"id":4,"battlerName":"NPC03","characterIndex":0,"characterName":"NPC03","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"NPC03","traits":[],"initialLevel":1,"maxLevel":99,"name":"NPC03","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"NPC04","characterIndex":0,"characterName":"NPC04","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"NPC04","traits":[],"initialLevel":1,"maxLevel":99,"name":"NPC04","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"NPC05","characterIndex":0,"characterName":"NPC05","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"NPC05","traits":[],"initialLevel":1,"maxLevel":99,"name":"NPC05","nickname":"","note":"","profile":""},
-{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"ALDO","characterIndex":0,"characterName":"ALDO","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ALDO","traits":[],"initialLevel":1,"maxLevel":99,"name":"ALDO","nickname":"","note":"","profile":""},
 {"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
