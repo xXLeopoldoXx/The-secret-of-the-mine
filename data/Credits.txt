@@ -4,19 +4,15 @@ will not display in the credits scene
 <block:-1,-1,10,10,offbot,center,Island>
 CREDITS
 
-\c[2]Engine
-Degica
-RPG Maker MV
-
 \c[2]Plugin Programmer
 Galv
 
-\c[2]Artwork
-Degica
-RPG Maker MV
+\c[2]Team
+Leopoldo Brito
+Gian Piero
+Frank Lope
 
 \c[2]Thanks
-All my supporters
 </block>
 
 <block:-1,0,10,10,100,right>
